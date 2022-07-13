@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     height: 40,
     marginRight: 12,
     borderWidth: 1,
-    borderColor: "rgba(60, 60, 67, 0,6)",
+    borderColor: "rgba(60, 60, 67, 0.6)",
     borderRadius: 4,
     justifyContent: "center",
     alignItems: "center",
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   description: {
-    color: "rgba(60, 60, 67, 0,6)",
+    color: "rgba(60, 60, 67, 0.6)",
     margin: 17,
     fontSize: 16,
     marginBottom: 8,
