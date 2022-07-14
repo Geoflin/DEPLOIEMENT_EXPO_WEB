@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "yarn_only",
-    "slug": "yarn_only",
+    "name": "Todo list",
+    "slug": "Todo list",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/animal-g9d898f39c_640.png",
+    "icon": "./assets/checkbox-g29f2d535d_640.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/checkbox-g29f2d535d_640.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/animal-g9d898f39c_640.png",
+        "foregroundImage": "./assets/checkbox-g29f2d535d_640.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/animal-g9d898f39c_640.png"
+      "favicon": "./assets/checkbox-g29f2d535d_640.png"
     }
   }
 }
